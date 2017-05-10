@@ -1,7 +1,7 @@
 var request = require('request');
 var fs = require('fs');
 var cheerio = require('cheerio');
-var url = 'http://www.xossip.com/showthread.php?t=1481309&page=9';
+var url = 'http://google.com';
 
 var string = "foo",
     substring = "obo";
